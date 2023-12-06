@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+header{
+  text-align: center;
+  font-size: 60px;
+  font-family: 'Times New Roman';
+  font-style: oblique;
+  background-color: blueviolet;
+  text-decoration-line: overline underline;
+  text-decoration-color: pink;
+  color: mintcream;
+}
+
+main{
+  text-align: center;
+  font-size: large;
+}
+
+body{
+  background-color: blueviolet;
+}
